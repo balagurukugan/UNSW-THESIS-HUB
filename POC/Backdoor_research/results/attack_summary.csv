@@ -1,0 +1,3 @@
+Category,Avg Clean Accuracy,Avg Attack Success
+Basic Attacks,0.6739666859308878,0.9603333333333333
+Advanced Attacks,0.6678749918937683,0.7585000000000001
